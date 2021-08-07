@@ -1,0 +1,1 @@
+give @s tipped_arrow{display:{Name:'{"text":"Arrow of Teleportation","italic":false}'},CustomPotionColor:6882142} 1
